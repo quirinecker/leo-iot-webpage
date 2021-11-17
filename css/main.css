@@ -1,0 +1,16 @@
+body {
+    margin: 0; padding: 0;
+}
+
+.container {
+    margin: 0; padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#content {
+    margin-top: 8vh;
+    width: 70vw;
+    margin-bottom: 3vh;
+}
+
