@@ -6,9 +6,11 @@
     display: flex;
     justify-content: center;
     font-family: 'Roboto', 'sans-serif';
+    position: fixed;
 }
 
 header {
+    top: 0;
     margin-top: 3vh;
     color: white;
     background-color: white;
@@ -67,6 +69,12 @@ header {
     color: black;
     cursor: pointer;
     transition: all 0.1s;
+}
+
+.navigation-point a {
+    color: black;
+    text-decoration: none;
+    all: unset;
 }
 
 .navigation-point:hover {

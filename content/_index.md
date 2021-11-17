@@ -1,7 +1,6 @@
 ---
 title: Home
+layout: About
 ---
 
-# Leo IOT 
-
-
+![3d Model](images/leo-iot.png)

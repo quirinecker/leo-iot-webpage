@@ -2,6 +2,10 @@
 
 {{ partial "indexHead.html" }}
 
-{{ .Content }}
+<div id="content">
+    {{ .Content }}
+</div>
+
+{{- partial "footer.html" . -}}
 
 {{ end }}
