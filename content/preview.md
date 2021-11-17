@@ -1,5 +1,5 @@
 ---
-title: About
+title: Preview
 layout: preview
 ---
 

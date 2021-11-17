@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69fced52-fc08-4bed-9f90-4dcac1f3adfe" name="Changes" comment="disabled footer for now">
+    <list default="true" id="69fced52-fc08-4bed-9f90-4dcac1f3adfe" name="Changes" comment="changed base url">
+      <change afterPath="$PROJECT_DIR$/content/images/3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/dashboard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ghpages.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ghpages.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/preview.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/preview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/team.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/leo-iot/static/css/preview.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/leo-iot/static/css/preview.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/leo-iot/static/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/leo-iot/layouts/_default" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,13 +67,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/leo-iot/layouts/_default" />
       <recent name="$PROJECT_DIR$/themes/leo-iot/static/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/leo-iot/layouts/_default" />
       <recent name="$PROJECT_DIR$/content/images" />
+      <recent name="$PROJECT_DIR$/themes/leo-iot/layouts" />
+      <recent name="$PROJECT_DIR$/themes/leo-iot/layouts/_default/images" />
+      <recent name="$PROJECT_DIR$/themes/leo-iot/layouts/_default" />
       <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/content/_index" />
     </key>
   </component>
   <component name="RunManager">
@@ -90,6 +97,14 @@
       <workItem from="1636959074352" duration="21392000" />
       <workItem from="1637170846206" duration="686000" />
     </task>
+    <task id="LOCAL-00001" summary="changed base url">
+      <created>1637182257580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637182257580</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +121,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed base url" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed base url" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
