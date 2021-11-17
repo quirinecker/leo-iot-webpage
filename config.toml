@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'LeoIOT'
+theme = 'leo-iot'
+relativeURLs = true
