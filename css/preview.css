@@ -43,11 +43,11 @@ div#content {
 }
 
 .preview #dashboard-img {
-    background-image: url("/img/dashboard.png");
+    background-image: url("/leo-iot-webpage/img/dashboard.png");
 }
 
 .preview #m3d-img {
-    background-image: url("/img/3d.png");
+    background-image: url("/leo-iot-webpage/img/3d.png");
 }
 
 .preview .text {
